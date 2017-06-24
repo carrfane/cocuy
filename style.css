@@ -1,0 +1,38 @@
+body {
+  margin:0;
+  color:white;
+}
+.section {
+  padding:20px;
+}
+.front {
+  background-color:yellow;
+  background-image:url(https://d1v8u1ev1s9e4n.cloudfront.net/556387b6067d7b306d2e2a1f);
+  background-size:cover;
+  background-position:center;
+}
+
+.front h1, .front h4, .front p {
+  text-align:center;
+  text-shadow:0 0 6px #000;
+}
+.red {
+  background-color:red
+}
+#nosotros {
+  background:#0f336d;
+  color:white;
+  text-transform:uppercase;
+  padding:10px 15px;
+  font-weight:600;
+  border-radius:3px;
+  text-decoration:none;
+  border-bottom: 4px solid blue;
+}
+#nosotros:hover {
+  background-color:red;
+  border-bottom: 4px solid blue;
+}
+.link {
+  margin-top:50px;
+}
