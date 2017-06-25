@@ -42,7 +42,11 @@ body {
 }
 .portfolio {
   color: black;
-  background: yellow;
+  background: #eee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
  }
  .contact {
   background: url(img/contacto.jpg);
@@ -83,9 +87,10 @@ input {
 input[type="submit"] {
   height: 30px;
   background-color: blue;
-  padding: 0
+  padding: 0;
   color:white;
   width: 30%;
+  font-weight: 600;
 }
 input[type="submit"]:hover {
   background-color: orange;
