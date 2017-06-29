@@ -42,7 +42,7 @@ body {
 }
 .portfolio {
   color: black;
-  background: yellow;
+  background: url(img/portafolio.jpg);
  }
  .contact {
   background: url(img/contacto.jpg);
