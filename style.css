@@ -42,11 +42,15 @@ body {
 }
 .portfolio {
   color: black;
+<<<<<<< HEAD
+  background: url(img/portafolio.jpg);
+=======
   background: #eee;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+>>>>>>> aa193ab01a54813f8eb786dbd72fa060bd85730d
  }
  .contact {
   background: url(img/contacto.jpg);
