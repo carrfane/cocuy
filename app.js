@@ -7,4 +7,5 @@ jQuery_3_1_1(document).ready(function(){
     loopBottom: true,
     anchors: ['home', 'nosotros','portfolio', 'contacto']
   });
+
 })
